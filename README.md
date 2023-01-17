@@ -9,11 +9,11 @@ The app is made available to you on an “as in”, with all faults and “as av
 
 Please read this section carefully since it limits the liability of “Parker Plays”. By downloading “Parker Plays”, your use of the app is at your own discretion and risk. “Brain Marks" makes no claims or promises with respect to the quality, the accuracy or reliability of the app, its safety or security, or its content.
 
-##Data
+## Data
 "Parker Plays" does not collect any data from the user using a third party service.
 
 I have a question about my data
 If you have a question about this privacy and how your data are collected, used and stored when you use Brain Marks, please feel free to email me at parkerplaysapp at gmail dot com with the subject line “Data Question” and let me know how I can help you.
 
-##Changes and Updates
+## Changes and Updates
 If “Parker Plays” makes changes to Terms and Conditions or Privacy Policy, these changes will be posted on this page in a timely manner. We reserve the right to modify these terms & conditions and/or privacy policy at any time, so please review it frequently (at least on every app update).
