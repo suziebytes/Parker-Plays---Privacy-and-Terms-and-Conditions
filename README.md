@@ -1,6 +1,11 @@
 # Parker-Plays---Privacy-and-Terms-and-Conditions
 
-By using “Parker Plays", you agree to our Terms of Use and our Privacy Policy. I invite you to fully read this page and make sure you understand its content prior to using “Brain Marks”.
+By using “Parker Plays", you agree to our Terms of Use and our Privacy Policy. I invite you to fully read this page and make sure you understand its content prior to using “Parker Plays”.
+
+- The app does not include third party analytics 
+- The app does not include third party advertising 
+- No date will be shared to third parties 
+- No user / device data will be collected 
 
 ## Parker Plays: Terms of Use & Privacy Policy
 Susie Chhuor operates the website and the “Parker Plays” mobile application (the “Service”) (name on the App Store subject to change for search and discovery purposes).
